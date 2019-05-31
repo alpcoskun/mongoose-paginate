@@ -35,7 +35,9 @@
   "engines": {
     "node": ">=4.2.4"
   },
-  "dependencies": {},
+  "dependencies": {
+    "bluebird": "3.5.5"
+  },
   "devDependencies": {
     "mongoose": "4.3.4",
     "mocha": "2.3.4",
